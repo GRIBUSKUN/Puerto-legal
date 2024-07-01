@@ -1,0 +1,6 @@
+@include('components.banner')
+@include('components.services')
+@include('components.studies')
+@include('components.about')
+@include('components.news')
+@include('components.contact')
