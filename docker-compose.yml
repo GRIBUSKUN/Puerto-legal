@@ -21,7 +21,7 @@ services:
       - ./docker/nginx/conf.d:/etc/nginx/conf.d
       - ./docker/nginx/snippets:/etc/nginx/snippets
     ports:
-      - "80:80"
+      - "81:80"
     networks:
       - app-network
 
