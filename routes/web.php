@@ -6,6 +6,7 @@ $routes = [
     '/nosotros' => 'nosotros',
     '/blog' => 'blog',
     '/contacto' => 'contacto',
+    '/titulo-de-ejemplo' => 'titulo-de-ejemplo',
 ];
 
 foreach ($routes as $uri => $name) {

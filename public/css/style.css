@@ -249,7 +249,6 @@ a.navbar-brand {
     border-radius: 30%;
     background-color: antiquewhite;
     cursor: pointer;
-    animate: 3s ease;
 }
 
 body > div.header_section > div.container-fluid > nav > div:nth-child(1) {
@@ -331,6 +330,7 @@ body > div.header_section > div.container-fluid > nav > a {
 .title_page {
     background-color: #001431;
     text-align: center;
+    padding: 20px;
 }
 
 .title_page .row{

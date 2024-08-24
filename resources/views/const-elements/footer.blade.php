@@ -35,7 +35,7 @@
       <!-- copyright section start -->
       <div class="copyright_section">
          <div class="container">
-            <p class="copyright_text">2023 Puerto Legal Todos los derechos reservados <a href="https://www.vogath.com">Developed by Vogath</a></p>
+            <p class="copyright_text">2024 Perto Legal Todos los derechos reservados <a href="https://www.vogath.com">Developed by Vogath</a></p>
          </div>
       </div>
       <!-- copyright section end -->

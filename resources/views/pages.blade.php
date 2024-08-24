@@ -30,6 +30,10 @@
             @include('pages.contacto')
             @break
 
+        @case( 'titulo-de-ejemplo' )
+            @include('pages.titulo-de-ejemplo')
+            @break
+
         @endswitch
        <!-- Body section end -->
 
